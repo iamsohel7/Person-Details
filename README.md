@@ -1,4 +1,4 @@
-#Setup
+# Setup
 
 Just need to install react  with npm
 
