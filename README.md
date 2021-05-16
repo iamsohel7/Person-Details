@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+#Setup
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Just need to install react  with npm
 
 ## Available Scripts
 
